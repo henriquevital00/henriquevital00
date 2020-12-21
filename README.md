@@ -26,7 +26,6 @@ These are some tecnologies that I know.
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-339933?style=flat-square&logo=Assembly&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 
 
