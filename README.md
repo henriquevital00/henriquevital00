@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Henrique Vital Carvalho, I am a computer cience student at [Centro Educacional Fei](https://portal.fei.edu.br/), I am currently in the 5 semester and in my free time I like to program.
+My name is Henrique Vital Carvalho, I am a computer cience student at [Centro Educacional Fei](https://portal.fei.edu.br/), I am currently in the 7 semester and in my free time I like to program.
 
 [![Linkedin: Henrique](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vital-carvalho-45a82b192/)](https://www.linkedin.com/in/henrique-vital-carvalho-45a82b192/)
 
